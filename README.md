@@ -53,10 +53,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [Y
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/felipeferrarini/ignite-challange2-image-upload.git
+$ git clone https://github.com/GuiLous/upload-imgs.git
 
 # Go into the directory
-$ cd ignite-challange2-image-upload
+$ cd upload-imgs
 
 # Install dependencies
 $ yarn
