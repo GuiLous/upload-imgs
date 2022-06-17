@@ -11,11 +11,6 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/felipeferrarini/ignite-challange2-image-upload">
-
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/felipeferrarini/ignite-challange2-image-upload">
-
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/felipeferrarini/ignite-challange2-image-upload">
 
   <img alt="Github license" src="https://img.shields.io/github/license/felipeferrarini/ignite-challange2-image-upload">
 </p>
